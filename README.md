@@ -7,7 +7,9 @@
 - apps/user-server → `mercurius` server
 - apps/photo-server → `mercurius` server
 
-## Testing
+## It works!
+
+<img width="665" alt="image" src="https://github.com/rhea-so/nestjs-mercurius-apollo-gateway-federation/assets/25793226/6dddf735-76de-4cbd-bbce-aaa5cddd489c">
 
 ```graphql
 query {
