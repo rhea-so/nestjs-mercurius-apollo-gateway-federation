@@ -1,0 +1,21 @@
+{
+  "name": "@apps/gateway",
+  "scripts": {
+    "build": "nest build",
+    "dev": "nest start --watch"
+  },
+  "dependencies": {
+    "@apollo/gateway": "2.5.6",
+    "@as-integrations/fastify": "2.1.1",
+    "@libs/config": "*",
+    "@nestjs/apollo": "12.0.9",
+    "@nestjs/common": "10.2.7",
+    "@nestjs/core": "10.2.7",
+    "@nestjs/graphql": "12.0.9",
+    "@nestjs/platform-fastify": "10.2.7",
+    "graphql": "16.8.1"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "10.1.18"
+  }
+}
